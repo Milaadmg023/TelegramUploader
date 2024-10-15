@@ -83,6 +83,6 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 
 ## Contact me
 
-[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/md_dev1)
+[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://telegram.me/codinodev)
 
 you can PM me on [@Tech_Shreyash](https://telegram.me/m_b21)
