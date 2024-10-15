@@ -35,6 +35,7 @@
 git clone https://github.com/Milaadmg023/TelegramUploader
 cd TelegramUploader
 py -m venv venv
+py config.py
 ./venv/Scripts/activate
 pip install https://github.com/KurimuzonAkuma/pyrogram/archive/v2.1.30.zip --force-reinstall
 py main.py
