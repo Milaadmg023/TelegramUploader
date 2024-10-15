@@ -1,1 +1,1 @@
-<h1>Telegram Uploader Bot</h1>
+<h1 align="center" >Telegram Uploader Bot</h1>
